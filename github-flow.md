@@ -10,7 +10,7 @@
 
 4. **Abrir um Pull Request:** solicitar que as alterações sejam revisadas antes de serem integradas à main.
 
-5. **Revisar as alterações:** um colega analisa o trabalho, pode pedir correções com Request changes ou aprovar com Approve.
+5. **Revisar as alterações:** um colega analisa o trabalho e escolhe uma opção de revisão. **Request changes** significa solicitar alterações ou correções antes de aprovar o trabalho. Já **Approve** significa aprovar as alterações após a revisão, permitindo que o Pull Request siga para o merge.
 
 6. **Fazer o merge:** depois da aprovação, juntar as alterações da branch à main.
 
