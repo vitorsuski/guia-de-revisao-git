@@ -6,5 +6,5 @@
 **4. Commit:** Registro de uma alteração feita nos arquivos do projeto, acompanhado de uma mensagem explicando o que foi modificado.
 **5. Branch:** Uma linha de trabalho separada que permite realizar alterações sem modificar diretamente a main.
 **6. Main:** Branch principal do projeto, onde fica a versão considerada principal.
-**7. Merge:** Operação que junta as alterações de uma branch em outra, como quando integramos uma branch de trabalho à main.
+**7. Merge:** Operação que junta as alterações de uma branch em outra. Por exemplo, podemos juntar as alterações feitas em uma branch de trabalho à branch principal (`main`), integrando as modificações ao projeto.
 **8. Pull Request:** Pedido para juntar as alterações de uma branch na main, permitindo que outra pessoa revise antes.
